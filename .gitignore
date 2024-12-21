@@ -7,6 +7,13 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
 # MemoryCaptures can get excessive in size
 [Mm]emoryCaptures/
 
